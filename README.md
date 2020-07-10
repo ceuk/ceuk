@@ -23,4 +23,4 @@ You can support my work by becoming a [sponsor](https://github.com/sponsors/ceuk
 ### Contact/Other Links
 
 - Email me at: [ceuk.dev@gmail.com](mailto:ceuk.dev@gmail.com)
-- View my blog at: [ceuk.dev](ceuk.dev)
+- View my blog at: [ceuk.dev](https://ceuk.dev)
