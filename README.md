@@ -18,7 +18,7 @@ I'm really into [desktop ricing](https://reddit.com/r/unixporn) and currently us
 
 I am currently working on a new startup with a co-founder in addition to contributing to Open-Source projects when/where I can.
 
-You can support my work on Mockoon by becoming a [sponsor](https://github.com/sponsors/ceuk).
+You can support my work by becoming a [sponsor](https://github.com/sponsors/ceuk).
 
 ### Contact/Other Links
 
