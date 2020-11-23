@@ -4,7 +4,7 @@ I'm a full-stack developer and product manager living in the UK.
 
 ### Background 
 
-In the past, I've launched (and sold) a successful software company as well working for a large development company that bulds software for the UK Public Sector and other national institutions. 
+In the past, I've launched (and sold) a successful software company. I've also worked for a large development companies that builds software for the UK Public Sector and other national institutions. 
 
 ### Interests 
 
@@ -18,7 +18,7 @@ I'm really into [desktop ricing](https://reddit.com/r/unixporn) and currently us
 
 I am currently working on a new startup with a co-founder in addition to contributing to Open-Source projects when/where I can.
 
-You can support my work by becoming a [sponsor](https://github.com/sponsors/ceuk).
+You can support my open source work by becoming a [sponsor](https://github.com/sponsors/ceuk).
 
 ### Contact/Other Links
 
