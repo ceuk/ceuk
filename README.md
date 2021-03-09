@@ -1,14 +1,29 @@
 ## Hi there 👋
 
-I'm a full-stack developer and product manager living in the UK.
+I'm a full-stack developer and product manager and tech entreprenuer living the UK.
 
-### Background 
+### My To-do list
 
-In the past, I've launched (and sold) a successful software company. I've also worked for a large development companies that builds software for the UK Public Sector and other national institutions. 
+(feel free to bug me if there's anything in particular you need doing/fixing and I'll try prioritise it)
 
-### Interests 
+#### [speech-recognition-aws-polyfill](https://github.com/ceuk/speech-recognition-aws-polyfill)
 
-I'm a huge open-source fan/advocate and naturally love all things GNU/Linux. My most successful open-source project is [SpoTUI](https://github.com/ceuk/spotui) - a terminal-based Spotify player.
+- [ ] [Add e2e tests](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/6)
+- [ ] bugs: [#3](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/3), [#4](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/4), [#5](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/5)
+- [ ] [Support `continuous` option](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/2)
+
+#### [SpoTUI](https://github.com/ceuk/spotui)
+
+- [ ] [Add podcast support](https://github.com/ceuk/spotui/issues/13)
+
+#### [fp-lib](https://github.com/versita-app/fp-lib)
+
+- [ ] Implement a `List` monad
+
+
+### About Me
+
+I'm a big open-source fan and naturally love all things GNU/Linux. My most successful (if you go by stars) open-source project is [SpoTUI](https://github.com/ceuk/spotui) - a terminal-based Spotify player.
 
 ![SpoTUI screenshot](https://i.imgur.com/7syOTKb.gif)
 
@@ -16,7 +31,7 @@ I'm really into [desktop ricing](https://reddit.com/r/unixporn) and currently us
 
 ### My work
 
-I am currently working on a new startup with a co-founder in addition to contributing to Open-Source projects when/where I can.
+I am currently working on my second startup with a co-founder in addition to contributing to doing some Open-Source stuff.
 
 You can support my open source work by becoming a [sponsor](https://github.com/sponsors/ceuk).
 
