@@ -2,7 +2,7 @@
 
 I'm a full-stack developer, product manager and tech entreprenuer living the UK.
 
-### My To-do list
+### My (OSS) To-do list
 
 (feel free to bug me if there's anything in particular you need doing/fixing and I'll try prioritise it)
 
