@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a full-stack developer and product manager and tech entreprenuer living the UK.
+I'm a full-stack developer, product manager and tech entreprenuer living the UK.
 
 ### My To-do list
 
