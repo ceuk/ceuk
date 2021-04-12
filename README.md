@@ -31,8 +31,6 @@ I'm really into [desktop ricing](https://reddit.com/r/unixporn) and currently us
 
 ### My work
 
-I am currently working on my second startup with a co-founder in addition to contributing to some open-source stuff.
-
 You can support my open source work by becoming a [sponsor](https://github.com/sponsors/ceuk).
 
 ### Contact/Other Links
