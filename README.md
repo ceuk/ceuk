@@ -10,7 +10,7 @@ I'm a full-stack developer, product manager and tech entreprenuer living the UK.
 
 - [ ] [Add e2e tests](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/6)
 - [ ] bugs: [#3](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/3), [#4](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/4), [#5](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/5)
-- [ ] [Support `continuous` option](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/2)
+- [x] [Support `continuous` option](https://github.com/ceuk/speech-recognition-aws-polyfill/issues/2)
 
 #### [SpoTUI](https://github.com/ceuk/spotui)
 
